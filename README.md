@@ -20,7 +20,7 @@ Requires Python 3.10+ and Windows.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/updatery.git
+git clone https://github.com/dx0ne/updatery.git
 cd updatery
 
 # Install dependencies
